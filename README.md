@@ -1,4 +1,4 @@
-# Exp - 2 ONLINE RAILWAY RESERVATION SYSTEM
+# Exp - 3 ONLINE RAILWAY RESERVATION SYSTEM
 
 ## AIM: 
 To draw a UML diagram for a Online Railway Reservation system.
